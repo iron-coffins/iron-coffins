@@ -45,8 +45,10 @@ to **System Settings → Privacy & Security**, scroll down, and click
 1. Unzip the archive somewhere stable (e.g. `C:\Games\IronCoffins`).
 2. Launch `IronCoffins.exe`.
 
-SmartScreen may flag the binary on first launch. Click **More info →
-Run anyway** to proceed.
+SmartScreen may flag the binary on first launch — and because the
+build is unsigned, it can label the game as **"Unsafe."** This is the
+expected warning for an unrecognized publisher, not a real threat.
+Click **More info → Run anyway** to proceed.
 
 ### Linux
 
